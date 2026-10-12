@@ -25,5 +25,5 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/santiago-lillo-macías-00667b39a)
+- **LinkedIn:** [me](https://www.linkedin.com/in/santiago-lillo-macías-00667b39a)
 - **Portfolio / Blog:** [Mateeureka](https://mateeureka.wordpress.com)
