@@ -4,7 +4,7 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 ---
 
-## 🚀 About Me
+## 💡 About Me
 
 - 🎓 **Education:** Pursuing my Master's Degree in Artificial Intelligence.
 - 🧠 **Other Interests**: Researching connections between Artificial Intelligence and neuroscience.
@@ -26,4 +26,4 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 ## 📫 Connect with me
 
 - **LinkedIn:** [me](https://www.linkedin.com/in/santiago-lillo-macías-00667b39a)
-- **Portfolio / Blog:** [Mateeureka](https://mateeureka.wordpress.com)
+- **Blog:** [Mateeureka](https://mateeureka.wordpress.com)
