@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Chicloneo/Chicloneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an **AI Master's Student**. Currently focused on learning the AI lifecycle —from data to deployment. My relevant coursework includes Machine Learning, Data Engineering, MLOps, Agents, Deep Learning, LLMs, Computer Vision, Reinforcement Learning, and models explainability.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 **Education:** Pursuing my Master's Degree in Artificial Intelligence.
+- 🧠 **Other Interests**: Researching connections between Artificial Intelligence and neuroscience.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+![Python](https://shields.io)
+![Scikit-Learn](https://shields.io)
+![Pandas](https://shields.io)
+![MLflow](https://shields.io)
+![Docker](https://shields.io)
+![Databricks](https://shields.io)
+![SQL](https://shields.io)
+
+---
+
+## 📊 GitHub Ecosystem & Metrics
+
+<div align="center">
+  <img height="180px" src="https://vercel.app" alt="GitHub Stats" />
+  <img height="180px" src="https://vercel.app" alt="Top Languages" />
+</div>
+
+---
+
+## 📫 Connect with me
+
+- **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/santiago-lillo-macías-00667b39a)
+- **Portfolio / Blog:** [Mateeureka](https://mateeureka.wordpress.com)
