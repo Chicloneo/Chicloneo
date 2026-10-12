@@ -13,7 +13,7 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 ## 🛠️ Tech Stack & Tools
 
-![Python](https://shields.io)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-Learn](https://shields.io)
 ![Pandas](https://shields.io)
 ![MLflow](https://shields.io)
