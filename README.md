@@ -23,20 +23,6 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 ---
 
-## 📊 GitHub Ecosystem & Metrics
-
- <div align="center">
-  <!-- Tarjeta de estadísticas y commits -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chicloneo&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Estadísticas de GitHub" />
-
-  <!-- Tarjeta de lenguajes más utilizados -->
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chicloneo&layout=compact&theme=tokyonight" alt="Lenguajes más utilizados" />
-</div>
-
-
----
-
 ## 📫 Connect with me
 
 - **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/santiago-lillo-macías-00667b39a)
