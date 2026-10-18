@@ -36,12 +36,6 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
       <td style="padding: 30px 15px;"><img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="60" alt="Docker"></td>
       <td style="padding: 30px 15px;"><img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks"></td>
     </tr>
-    <!-- Fila 3: Subtítulo Exclusivo para Databricks -->
-    <tr align="center">
-      <td style="padding: 5px;" border="0"></td>
-      <td style="padding: 5px;" border="0"></td>
-      <td style="padding: 8px 5px 15px 5px;"><span style="font-weight: bold; font-size: 14px;">Databricks</span></td>
-    </tr>
   </table>
 </div>
 
