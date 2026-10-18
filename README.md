@@ -12,7 +12,7 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 ---
 
 ## 🛠️ Tech Stack & Tools
-
+![Python](https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-0D1117?style=flat-square&logo=scikitlearn)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
