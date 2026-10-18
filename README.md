@@ -1,3 +1,5 @@
+# Hi there! 👋
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
 I am an **AI Master's Student** with background in **Mathematics** and **Computer Science**. Currently focused on learning the AI lifecycle —from data to deployment. My relevant coursework includes Machine Learning, Data Engineering, MLOps, Agents, Deep Learning, LLMs, Computer Vision, Reinforcement Learning, and models explainability.
