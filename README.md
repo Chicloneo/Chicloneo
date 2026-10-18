@@ -23,25 +23,39 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 <div align="center">
   <h3>🧩 Tech Stack 🧩</h3>
-
-  <!-- Primera Fila -->
-  <p align="center">
-    <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="60" alt="Python" hspace="25">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="60" alt="Scikit-Learn" hspace="25">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="48" alt="Pandas" hspace="25">
-  </p>
   
-  <br>
-
-  <!-- Segunda Fila -->
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow" hspace="25">
-    <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="60" alt="Docker" hspace="25">
-    <span style="display: inline-block; text-align: center; margin: 0 25px;">
-      <img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks"><br>
-      <span style="font-weight: bold; font-size: 14px;">Databricks</span>
-    </span>
-  </p>
+  <table border="1" style="border-collapse: collapse; text-align: center; border-color: #30363d;">
+    <!-- Primera Fila -->
+    <tr>
+      <td width="33%" style="padding: 20px 10px;">
+        <div style="display: block; line-height: 1;"><img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="60" alt="Python"></div>
+        <div style="visibility: hidden; font-size: 14px; margin-top: 10px;">&nbsp;</div>
+      </td>
+      <td width="33%" style="padding: 20px 10px;">
+        <div style="display: block; line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="60" alt="Scikit-Learn"></div>
+        <div style="visibility: hidden; font-size: 14px; margin-top: 10px;">&nbsp;</div>
+      </td>
+      <td width="33%" style="padding: 20px 10px;">
+        <div style="display: block; line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="48" alt="Pandas"></div>
+        <div style="visibility: hidden; font-size: 14px; margin-top: 22px;">&nbsp;</div>
+      </td>
+    </tr>
+    <!-- Segunda Fila -->
+    <tr>
+      <td style="padding: 20px 10px;">
+        <div style="display: block; line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow"></div>
+        <div style="visibility: hidden; font-size: 14px; margin-top: 28px;">&nbsp;</div>
+      </td>
+      <td style="padding: 20px 10px;">
+        <div style="display: block; line-height: 1;"><img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="60" alt="Docker"></div>
+        <div style="visibility: hidden; font-size: 14px; margin-top: 10px;">&nbsp;</div>
+      </td>
+      <td style="padding: 20px 10px;">
+        <div style="display: block; line-height: 1;"><img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks"></div>
+        <div style="font-weight: bold; font-size: 14px; margin-top: 10px; display: block;">Databricks</div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
