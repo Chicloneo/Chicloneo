@@ -20,43 +20,38 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 -->
 
 
-
 <div align="center">
   <h3>🧩 Tech Stack 🧩</h3>
   
   <table border="1" style="border-collapse: collapse; text-align: center; border-color: #30363d;">
-    <!-- Primera Fila -->
-    <tr>
-      <td width="33%" style="padding: 20px 10px;">
-        <div style="display: block; line-height: 1;"><img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="60" alt="Python"></div>
-        <div style="visibility: hidden; font-size: 14px; margin-top: 10px;">&nbsp;</div>
-      </td>
-      <td width="33%" style="padding: 20px 10px;">
-        <div style="display: block; line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="60" alt="Scikit-Learn"></div>
-        <div style="visibility: hidden; font-size: 14px; margin-top: 10px;">&nbsp;</div>
-      </td>
-      <td width="33%" style="padding: 20px 10px;">
-        <div style="display: block; line-height: 1;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="48" alt="Pandas"></div>
-        <div style="visibility: hidden; font-size: 14px; margin-top: 22px;">&nbsp;</div>
-      </td>
+    <!-- Fila 1: Logotipos Superiores -->
+    <tr align="center">
+      <td width="33%" style="padding: 30px 15px;"><img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="60" alt="Python"></td>
+      <td width="33%" style="padding: 30px 15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="60" alt="Scikit-Learn"></td>
+      <td width="33%" style="padding: 30px 15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="48" alt="Pandas"></td>
     </tr>
-    <!-- Segunda Fila -->
-    <tr>
-      <td style="padding: 20px 10px;">
-        <div style="display: block; line-height: 1;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow"></div>
-        <div style="visibility: hidden; font-size: 14px; margin-top: 28px;">&nbsp;</div>
-      </td>
-      <td style="padding: 20px 10px;">
-        <div style="display: block; line-height: 1;"><img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="60" alt="Docker"></div>
-        <div style="visibility: hidden; font-size: 14px; margin-top: 10px;">&nbsp;</div>
-      </td>
-      <td style="padding: 20px 10px;">
-        <div style="display: block; line-height: 1;"><img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks"></div>
-        <div style="font-weight: bold; font-size: 14px; margin-top: 10px; display: block;">Databricks</div>
-      </td>
+    <!-- Fila 2: Logotipos Inferiores -->
+    <tr align="center">
+      <td style="padding: 30px 15px;"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow"></td>
+      <td style="padding: 30px 15px;"><img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="60" alt="Docker"></td>
+      <td style="padding: 30px 15px;"><img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks"></td>
+    </tr>
+    <!-- Fila 3: Subtítulo Exclusivo para Databricks -->
+    <tr align="center">
+      <td style="padding: 5px;" border="0"></td>
+      <td style="padding: 5px;" border="0"></td>
+      <td style="padding: 8px 5px 15px 5px;"><span style="font-weight: bold; font-size: 14px;">Databricks</span></td>
     </tr>
   </table>
 </div>
+
+
+Más:
+
+[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)](#)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 
 
@@ -69,5 +64,13 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [me](https://www.linkedin.com/in/santiago-lillo-macías-00667b39a)
-- **Blog:** [Mateeureka](https://mateeureka.wordpress.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/santiago-lillo-macías-00667b39a/?isSelfProfile=true" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://mateeureka.wordpress.com" target="_blank">
+    <img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white" alt="Blog Badge"/>
+  </a>
+</p>
+
