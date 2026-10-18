@@ -23,35 +23,28 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 
 <div align="center">
   <h3>🧩 Tech Stack 🧩</h3>
+
+  <!-- Primera Fila -->
+  <p align="center">
+    <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="60" alt="Python" hspace="25">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="60" alt="Scikit-Learn" hspace="25">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="48" alt="Pandas" hspace="25">
+  </p>
   
-  <table border="1" style="border-collapse: collapse; text-align: center; border-color: #30363d;">
-    <!-- Primera Fila -->
-    <tr valign="middle">
-      <td style="padding: 20px; text-align: center; width: 33%;" valign="middle">
-        <img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" height="80" alt="Python">
-      </td>
-      <td style="padding: 20px; text-align: center; width: 33%;" valign="middle">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="60" alt="Scikit-Learn">
-      </td>
-      <td style="padding: 20px; text-align: center; width: 33%;" valign="middle">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" height="48" alt="Pandas">
-      </td>
-    </tr>
-    <!-- Segunda Fila -->
-    <tr valign="middle">
-      <td style="padding: 20px; text-align: center;" valign="middle">
-        <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow">
-      </td>
-      <td style="padding: 20px; text-align: center;" valign="middle">
-        <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="100" alt="Docker">
-      </td>
-      <td style="padding: 20px; text-align: center;" valign="middle">
-        <img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks">
-        <span style="display: block; margin-top: 8px; font-weight: bold;">Databricks</span>
-      </td>
-    </tr>
-  </table>
+  <br>
+
+  <!-- Segunda Fila -->
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow" hspace="25">
+    <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="60" alt="Docker" hspace="25">
+    <span style="display: inline-block; text-align: center; margin: 0 25px;">
+      <img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks"><br>
+      <span style="font-weight: bold; font-size: 14px;">Databricks</span>
+    </span>
+  </p>
 </div>
+
+
 
 
 ## 💡 About Me
