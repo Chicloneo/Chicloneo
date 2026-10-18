@@ -42,7 +42,7 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
         <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ml-flow-wordmark.svg" height="42" alt="MLflow">
       </td>
       <td style="padding: 20px; align-content: center; text-align: center;">
-        <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="80" alt="Docker">
+        <img src="https://camo.githubusercontent.com/67bf0811ad0811af2ea7ac7b43e8c16f5fb89fa45e2dcc0a7035e8b053215794/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" height="100" alt="Docker">
       </td>
       <td style="padding: 20px; align-content: center; text-align: center;">
         <img src="https://cdn.holistics.io/landing/databases/databricks.png" height="60" alt="Databricks">
