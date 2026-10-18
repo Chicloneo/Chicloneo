@@ -13,7 +13,7 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
     <!-- Primera Fila -->
     <tr>
       <td style="padding: 10px 20px;"><img src="https://camo.githubusercontent.com/d7f81f6d4cfa55056568314a53cac1cfd12f690bccf1e2c1d315ca6a17d39747/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667" width="40" height="40" alt="Python"><br><small>Python</small></td>
-      <td style="padding: 10px 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" width="40" height="40" alt="Scikit-Learn"><br><small>Scikit-Learn</small></td>
+      <td style="padding: 10px 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="40" height="40" alt="Scikit-Learn"><br><small>Scikit-Learn</small></td>
       <td style="padding: 10px 20px;"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Pandas_logo_with_light_text.svg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original" width="40" height="40" alt="Pandas"><br><small>Pandas</small></td>
     </tr>
     <!-- Segunda Fila -->
