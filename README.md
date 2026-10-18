@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello+world!)](https://git.io/typing-svg)
 
-I am an **AI Master's Student**. Currently focused on learning the AI lifecycle —from data to deployment. My relevant coursework includes Machine Learning, Data Engineering, MLOps, Agents, Deep Learning, LLMs, Computer Vision, Reinforcement Learning, and models explainability.
+I am an **AI Master's Student** with background in **Mathematics** and **Computer Science**. Currently focused on learning the AI lifecycle —from data to deployment. My relevant coursework includes Machine Learning, Data Engineering, MLOps, Agents, Deep Learning, LLMs, Computer Vision, Reinforcement Learning, and models explainability.
 
 ---
 <!-- 
@@ -40,21 +40,20 @@ I am an **AI Master's Student**. Currently focused on learning the AI lifecycle 
 </div>
 
 
-Más:
+### + more:
 
-[![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white)](#)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff)](#)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
-
-
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Pydantic-E92063?logo=Pydantic&logoColor=white" alt="Pydantic"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff" alt="Streamlit"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"></a>
+  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"></a>
+</p>
 
 
 ## 💡 About Me
 
 - 🎓 **Education:** Pursuing my Master's Degree in Artificial Intelligence.
 - 🧠 **Other Interests**: Researching connections between Artificial Intelligence and neuroscience.
----
 
 ## 📫 Connect with me
 
