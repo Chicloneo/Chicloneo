@@ -47,7 +47,10 @@ I am an **AI Master's Student** with background in **Mathematics** and **Compute
   <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=fff" alt="Streamlit"></a>
   <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"></a>
   <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff" alt="LaTeX"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"></a>
 </p>
+
 
 
 ## 💡 About Me
